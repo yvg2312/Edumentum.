@@ -3,9 +3,9 @@
 
 
 
-# StudyNotion
+# Edumentum
 
-StudyNotion is an educational platform that aims to empower learners and educators through innovative technology. This platform is designed to facilitate seamless learning experiences, enabling users to engage with educational content efficiently.
+eEumentum is an educational platform that aims to empower learners and educators through innovative technology. This platform is designed to facilitate seamless learning experiences, enabling users to engage with educational content efficiently.
 
 ## Features
 
@@ -28,8 +28,8 @@ To run this project locally, ensure you have Node.js and MongoDB installed.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/StudyNotion.git
-   cd StudyNotion
+   git clone https://github.com/your-username/edumentum
+   cd edumentum
    ```
 
 2. Install dependencies:
@@ -44,7 +44,7 @@ To run this project locally, ensure you have Node.js and MongoDB installed.
 
    ```env
    PORT=3000
-   MONGODB_URI=mongodb://localhost:27017/StudyNotion
+   MONGODB_URI=mongodb://localhost:27017/Edumentum
    ```
 
 4. Start the server:
